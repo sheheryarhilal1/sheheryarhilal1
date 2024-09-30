@@ -5,6 +5,15 @@
 - 📫 How to reach me through face book whats app linkedin 
 - 😄 Pronouns: sherry
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning Getx,Stack
+
+💬 Ask me about Dart,Flutter
+
+📫 How to reach me sheheryar.hill.277@gmail.com
+
+👨‍💻 All of my projects are available at https://sheheryarhilal1.github.io/
+
+
 
 <!---
 sheheryarhilal1/sheheryarhilal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
