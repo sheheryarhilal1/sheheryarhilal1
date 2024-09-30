@@ -12,9 +12,9 @@ coding
 
 💬 Ask me about Dart,Flutter
 
-📫 How to reach me usman2037966@gmail.com
+📫 How to reach me sheheryar.hill.277@gmail.com
 
-👨‍💻 All of my projects are available at muhammad-usman08.vercel.app
+👨‍💻 All of my projects are available at https://sheheryarhilal1.github.io/
 
 
 📫
