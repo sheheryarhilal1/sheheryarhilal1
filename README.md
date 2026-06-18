@@ -1,52 +1,68 @@
-<!-- 🔵 PROFESSIONAL BACKGROUND HEADER -->
+<!-- 🔵 PROFESSIONAL HEADER BACKGROUND -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed&fontSize=35&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
-A passionate frontend developer from Pakistan | Full Stack Developer | Freelancer | Teaching Assistant | Data Analyst
+Full Stack Developer | Data Analyst | Power BI Developer | Flutter Developer | Freelancer | Teaching Assistant
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheheryarhilal1&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sheheryarhilal1&theme=onedark&row=1&column=6" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sheheryarhilal1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🔭 Currently Working On
-- IOT Devices  
-- Data Science & Machine Learning Projects  
+## 👨‍💻 Professional Summary
 
-## 🌱 Currently Learning
-- React Native  
+I am a **Full Stack Developer and Data Analyst** with experience in building real-world applications including:
+- Mobile Apps (Flutter)
+- Data Dashboards (Power BI)
+- Web Applications
+- API Integration
+- Data Science Projects
+
+I focus on **clean code, scalable architecture, and real business solutions**.
+
+---
+
+## 🔭 Current Work
+- IoT Devices Development  
+- Machine Learning & Data Science Projects  
+- Mobile App Development (Flutter)  
+
+## 🌱 Learning
 - Advanced Python  
 - Machine Learning & Deep Learning  
+- React Native  
 
-## 👯 Looking to Collaborate On
-- BITA HOMES  
-- Data Analysis & AI Projects  
+## 👯 Collaboration Interests
+- AI / Data Analytics Projects  
+- Business Intelligence Dashboards  
+- Freelance Mobile & Web Projects  
 
 ## 💬 Ask Me About
-- Dart, Flutter  
-- Python, Power BI  
-- APIs & Data Analysis  
+- Flutter & Dart  
+- Python & Power BI  
+- APIs & Backend Development  
+- Data Analysis & Visualization  
 
-## 📫 Contact Me
-- Email: **sheheryar.hill.277@gmail.com**
+---
+
+## 🌐 Portfolio & Links
+
+<p align="center">
+
+🚀 **Live Portfolio:**  
+👉 https://incredible-banoffee-7728a3.netlify.app/
+
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<image align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <a href="https://linkedin.com" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -68,34 +84,26 @@ A passionate frontend developer from Pakistan | Full Stack Developer | Freelance
 
 <p align="center">
 
-<!-- Programming -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
 
-<!-- Web -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 
-<!-- Data Science -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
 
-<!-- Data Visualization -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/>
 
-<!-- Mobile -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="45"/>
 
-<!-- Database -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
 
-<!-- Tools -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="45"/>
@@ -121,5 +129,5 @@ A passionate frontend developer from Pakistan | Full Stack Developer | Freelance
 ---
 
 <p align="center">
-🚀 “Building real-world solutions with code, data & creativity”
+🚀 “Turning ideas into real-world digital solutions through code, data & creativity”
 </p>
