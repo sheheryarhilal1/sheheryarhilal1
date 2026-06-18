@@ -1,6 +1,6 @@
 <!-- 🔵 PROFESSIONAL HEADER BACKGROUND -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed%20%E2%80%94%20Data%20Analyst%20%26%20Data%20Scientist%20specializing%20in%20Machine%20Learning%2C%20Model%20Training%2C%20and%20Data-Driven%20Research%20from%20Pakistan&fontSize=18&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
