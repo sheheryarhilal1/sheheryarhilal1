@@ -142,10 +142,7 @@ I focus on **clean code, scalable architecture, and real business solutions**.
   <img src="https://streak-stats.demolab.com?user=sheheryarhilal1&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- GitHub Contribution Calendar (Green Squares) -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/sheheryarhilal1" alt="GitHub Contribution Chart"/>
-</p>
+
 
 <!-- GitHub Trophies -->
 <p align="center">
@@ -158,4 +155,3 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 🚀 “Turning ideas into real-world digital solutions through code, data & creativity”
 </p>
 ```
-graph jo hai wo jo hota hai wesa design mai dy do plus sign jo hota hai abqqi sb ye theek hai compleet code do
