@@ -1,67 +1,132 @@
----
+<!-- 🔵 PROFESSIONAL HEADER BACKGROUND -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed&%20fontSize=35&fontColor=ffffff" /> </p>
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sheheryarhilal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheheryarhilal1&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</p>
+<h3 align="center">
+Full Stack Developer | Data Analyst | Power BI Developer | Flutter Developer | Freelancer | Teaching Assistant
+</h3>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sheheryarhilal1&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://komarev.com/ghpvc/?username=sheheryarhilal1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 👨‍💻 Professional Summary
+
+I am a **Full Stack Developer and Data Analyst** with experience in building real-world applications including:
+- Mobile Apps (Flutter)
+- Data Dashboards (Power BI)
+- Web Applications
+- API Integration
+- Data Science Projects
+
+I focus on **clean code, scalable architecture, and real business solutions**.
+
+---
+
+## 🔭 Current Work
+- IoT Devices Development  
+- Machine Learning & Data Science Projects  
+- Mobile App Development (Flutter)  
+
+## 🌱 Learning
+- Advanced Python  
+- Machine Learning & Deep Learning  
+- React Native  
+
+## 👯 Collaboration Interests
+- AI / Data Analytics Projects  
+- Business Intelligence Dashboards  
+- Freelance Mobile & Web Projects  
+
+## 💬 Ask Me About
+- Flutter & Dart  
+- Python & Power BI  
+- APIs & Backend Development  
+- Data Analysis & Visualization  
+
+---
+
+## 🌐 Portfolio & Links
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheheryarhilal1&theme=tokyo-night"/>
+🚀 **Live Portfolio:**  
+👉 https://incredible-banoffee-7728a3.netlify.app/
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🤝 Connect With Me
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sheheryarhilal1/sheheryarhilal1/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://linkedin.com" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/call_me_sheheryar" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 💻 Coding
+## 🧠 Languages & Tools
 
 <p align="center">
 
-<img width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="45"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sheheryarhilal1&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sheheryarhilal1&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheheryarhilal1&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheheryarhilal1&theme=tokyonight" />
 </p>
 
 ---
 
-# ⚡ Fun Fact
-
 <p align="center">
-
-> 🚀 I enjoy transforming ideas into scalable applications, insightful dashboards, and intelligent AI-powered solutions.
-
+🚀 “Turning ideas into real-world digital solutions through code, data & creativity”
 </p>
+sab theek hai github stats wala jo portion hai waha image ya kuch lagaya hoga wo app show nhi ho rahi usko fix kar ky complete coide do or ek gif bhee adfd kardo 
