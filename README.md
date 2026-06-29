@@ -144,11 +144,7 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 
 
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheheryarhilal1&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
-```
+
 
 
 <p align="center">
