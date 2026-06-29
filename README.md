@@ -1,5 +1,3 @@
-
-
 <!-- 🔵 PROFESSIONAL HEADER BACKGROUND -->
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed&fontSize=35&fontColor=ffffff" /> </p>
 
@@ -121,8 +119,19 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 ---
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheheryarhilal1&layout=compact&theme=tokyonight" /> </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheheryarhilal1&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheheryarhilal1&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheheryarhilal1&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sheheryarhilal1&theme=tokyonight&column=4"/>
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sheheryarhilal1&theme=tokyonight" />
