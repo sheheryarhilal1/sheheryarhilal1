@@ -122,13 +122,7 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sheheryarhilal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheheryarhilal1&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sheheryarhilal1&theme=tokyonight" />
