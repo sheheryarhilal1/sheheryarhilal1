@@ -1,5 +1,7 @@
+
+
 <!-- 🔵 PROFESSIONAL HEADER BACKGROUND -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed&%20fontSize=35&fontColor=ffffff" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed&fontSize=35&fontColor=ffffff" /> </p>
 
 <h3 align="center">
 Full Stack Developer | Data Analyst | Power BI Developer | Flutter Developer | Freelancer | Teaching Assistant
@@ -110,10 +112,18 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 
 ---
 
+## 💻 Coding
+
+<p align="center">
+<img width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sheheryarhilal1&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sheheryarhilal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -121,7 +131,7 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheheryarhilal1&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=sheheryarhilal1&theme=tokyonight" />
 </p>
 
 ---
@@ -129,4 +139,4 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 <p align="center">
 🚀 “Turning ideas into real-world digital solutions through code, data & creativity”
 </p>
-sab theek hai github stats wala jo portion hai waha image ya kuch lagaya hoga wo app show nhi ho rahi usko fix kar ky complete coide do or ek gif bhee adfd kardo 
+```
