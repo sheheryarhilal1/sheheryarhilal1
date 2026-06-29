@@ -121,7 +121,7 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 ---
 
 ## 📊 GitHub Stats
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheheryarhilal1&layout=compact&theme=tokyonight" /> </p>
 
 
 <p align="center">
