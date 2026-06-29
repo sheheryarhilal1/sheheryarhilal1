@@ -1,5 +1,6 @@
+
 <!-- 🔵 PROFESSIONAL HEADER BACKGROUND -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed&%20fontSize=35&fontColor=ffffff" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=Sheheryar%20Ahmed&fontSize=35&fontColor=ffffff" /> </p>
 
 <h3 align="center">
 Full Stack Developer | Data Analyst | Power BI Developer | Flutter Developer | Freelancer | Teaching Assistant
@@ -110,22 +111,51 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Coding
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sheheryarhilal1&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheheryarhilal1&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheheryarhilal1&theme=tokyonight" />
+<img width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- Contribution Graph (Green Squares) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheheryarhilal1&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<!-- Profile Details -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheheryarhilal1&theme=tokyonight"/>
+</p>
+
+<!-- Stats + Languages -->
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheheryarhilal1&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheheryarhilal1&theme=tokyonight"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sheheryarhilal1&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- GitHub Contribution Calendar (Green Squares) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/sheheryarhilal1" alt="GitHub Contribution Chart"/>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sheheryarhilal1&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
+```
+
+
 <p align="center">
 🚀 “Turning ideas into real-world digital solutions through code, data & creativity”
 </p>
+```
+graph jo hai wo jo hota hai wesa design mai dy do plus sign jo hota hai abqqi sb ye theek hai compleet code do
