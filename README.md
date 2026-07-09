@@ -10,7 +10,6 @@ Full Stack Developer | Data Analyst | Power BI Developer | Flutter Developer | F
   <img src="https://komarev.com/ghpvc/?username=sheheryarhilal1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
 
 ## 👨‍💻 Professional Summary
 
@@ -23,7 +22,6 @@ I am a **Full Stack Developer and Data Analyst** with experience in building rea
 
 I focus on **clean code, scalable architecture, and real business solutions**.
 
----
 
 ## 🔭 Current Work
 - IoT Devices Development  
