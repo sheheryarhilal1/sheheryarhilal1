@@ -26,23 +26,33 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 ## 🔭 Current Work
 - IoT Devices Development  
 - Machine Learning & Data Science Projects  
-- Mobile App Development (Flutter)  
+- Mobile App Development (Flutter)
+- Dashboard building
+- python for data cleaning
+- bussinwss intelligence
+- powerbi working
+  
 
 ## 🌱 Learning
 - Advanced Python  
 - Machine Learning & Deep Learning  
-- React Native  
+- React Native
+- Standarad Query Language(SQL)
+
 
 ## 👯 Collaboration Interests
 - AI / Data Analytics Projects  
 - Business Intelligence Dashboards  
-- Freelance Mobile & Web Projects  
+- Freelance Mobile & Web Projects
+- Private Tution
+- Computer Science Lecture delevering
 
 ## 💬 Ask Me About
 - Flutter & Dart  
 - Python & Power BI  
 - APIs & Backend Development  
-- Data Analysis & Visualization  
+- Data Analysis & Visualization
+- Teaching Query things
 
 ---
 
