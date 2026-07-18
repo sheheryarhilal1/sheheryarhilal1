@@ -29,8 +29,8 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 - Mobile App Development (Flutter)
 - Dashboard building
 - python for data cleaning
-- bussinwss intelligence
-- powerbi working
+- bussiness intelligence
+- powerbi relating things
   
 
 ## 🌱 Learning
@@ -45,14 +45,14 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 - Business Intelligence Dashboards  
 - Freelance Mobile & Web Projects
 - Private Tution
-- Computer Science Lecture delevering
+- Computer Science Lecturear
 
 ## 💬 Ask Me About
 - Flutter & Dart  
 - Python & Power BI  
 - APIs & Backend Development  
 - Data Analysis & Visualization
-- Teaching Query things
+
 
 ---
 
