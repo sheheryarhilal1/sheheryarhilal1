@@ -1,6 +1,4 @@
-# Complete README.md
 
-```markdown
 <!-- 🔵 PROFESSIONAL HEADER BACKGROUND -->
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=SHEHERYAR%20AHMED&fontSize=35&fontColor=ffffff" /> </p>
 
