@@ -3,8 +3,11 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=SHEHERYAR%20AHMED&fontSize=35&fontColor=ffffff" /> </p>
 
 <h3 align="center">
-🚀 Full Stack Developer | 📱 Flutter Developer | 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI | 🤖 Aspiring Data Scientist
+# 👋 Hi, I'm Sheheryar Ahmed
 
+ 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI | 📱 Flutter Developer | 🤖 Aspiring Data Scientist
+
+💡 I build data-driven solutions, interactive dashboards, and scalable applications that turn complex problems into meaningful business insights.
 
 </h3>
 
