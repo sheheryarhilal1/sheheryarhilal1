@@ -3,8 +3,9 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=SHEHERYAR%20AHMED&fontSize=35&fontColor=ffffff" /> </p>
 
 <h3 align="center">
-Full Stack Developer | Data Analyst | Power BI Developer | Flutter Developer | Freelancer | Teaching Assistant
-</h3>
+🚀 Full Stack Developer | 📱 Flutter Developer | 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI | 🤖 Aspiring Data Scientist
+
+.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sheheryarhilal1&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -12,8 +13,7 @@ Full Stack Developer | Data Analyst | Power BI Developer | Flutter Developer | F
 
 
 ## 👨‍💻 Professional Summary
-
-I am a **Full Stack Developer and Data Analyst** with experience in building real-world applications including:
+💡 Passionate about building scalable applications and transforming data into meaningful business insights
 - Mobile Apps (Flutter)
 - Data Dashboards (Power BI)
 - Web Applications
