@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=180&section=header&text=SHEHERYAR%20AHMED&fontSize=35&fontColor=ffffff" /> </p>
 
 <h3 align="center">
-# 👋 Hi, I'm Sheheryar Ahmed
+ 👋 Hi, I'm Sheheryar Ahmed
 
  📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI | 📱 Flutter Developer | 🤖 Aspiring Data Scientist
 
