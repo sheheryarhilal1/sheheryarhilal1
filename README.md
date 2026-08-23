@@ -14,8 +14,7 @@
 
 
 ## 👨‍💻 Professional Summary
-💡 Passionate about building scalable applications and transforming data into meaningful business insights
-- Mobile Apps (Flutter)
+💡 I build data-driven solutions, interactive dashboards, and scalable applications that turn complex problems into meaningful business insights.- Mobile Apps (Flutter)
 - Data Dashboards (Power BI)
 - Web Applications
 - API Integration
