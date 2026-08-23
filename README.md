@@ -5,7 +5,8 @@
 <h3 align="center">
 🚀 Full Stack Developer | 📱 Flutter Developer | 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI | 🤖 Aspiring Data Scientist
 
-.</h3>
+
+💡 Passionate about building scalable applications and transforming data into meaningful business insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sheheryarhilal1&label=Profile%20Views&color=0e75b6&style=flat" />
