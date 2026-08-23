@@ -28,13 +28,13 @@ I focus on **clean code, scalable architecture, and real business solutions**.
 
 
 ## 🔭 Current Work
-- IoT Devices Development  
-- Machine Learning & Data Science Projects  
-- Mobile App Development (Flutter)
-- Dashboard building
-- python for data cleaning
-- bussiness intelligence
-- powerbi relating things
+
+- 📊 Data Analysis & Exploratory Data Analysis
+- 📈 Power BI Dashboard Development
+- 🐍 Python Data Cleaning & Visualization
+- 🗄️ SQL Business Analytics
+- 🤖 Machine Learning & Data Science Projects
+- 📱 Flutter Application Development
   
 
 ## 🌱 Learning
