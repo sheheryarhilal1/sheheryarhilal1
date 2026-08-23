@@ -17,7 +17,7 @@
 
 
 ## 👨‍💻 Professional Summary
-💡 I build data-driven solutions, interactive dashboards, and scalable applications that turn complex problems into meaningful business insights.
+📊 Data Analyst focused on transforming raw data into actionable insights using Python, SQL, Power BI, and data visualization, while leveraging software development experience to build practical and scalable solutions.
 - Mobile Apps (Flutter)
 - Data Dashboards (Power BI)
 - Web Applications
