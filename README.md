@@ -5,12 +5,11 @@
 <h3 align="center">
  👋 Hi, I'm Sheheryar Ahmed
 
-Software Engineering Graduate | Data Analytics & Mobile Development
+📊 Data Analyst | SQL | Python | Power BI | Excel | Data Visualization
 
-📊 SQL • Python • Power BI • Excel
-📱 Flutter • Dart • Firebase • REST APIs
+Software Engineering graduate focused on turning raw data into meaningful business insights.
 
-🔎 Building data dashboards, analytics projects & mobile applications
+I work with **SQL, Python, Power BI, Excel, Power Query, and DAX** to clean, analyze, visualize, and interpret data. I enjoy building interactive dashboards and finding trends, patterns, and insights that support better business decisions.
 
 💡 I build data-driven solutions, interactive dashboards, and scalable applications that turn complex problems into meaningful business insights.
 
