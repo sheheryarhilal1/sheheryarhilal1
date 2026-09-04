@@ -5,7 +5,12 @@
 <h3 align="center">
  👋 Hi, I'm Sheheryar Ahmed
 
- 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI | 📱 Flutter Developer | 🤖 Aspiring Data Scientist
+Software Engineering Graduate | Data Analytics & Mobile Development
+
+📊 SQL • Python • Power BI • Excel
+📱 Flutter • Dart • Firebase • REST APIs
+
+🔎 Building data dashboards, analytics projects & mobile applications
 
 💡 I build data-driven solutions, interactive dashboards, and scalable applications that turn complex problems into meaningful business insights.
 
