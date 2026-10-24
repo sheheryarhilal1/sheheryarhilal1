@@ -109,7 +109,7 @@ I'm interested in collaborating on:
 
 🚀 <b>Live Portfolio</b>
 
-👉 https://quebenixtechnology.netlify.app/
+👉 https://portfolioo-nine-iota.vercel.app
 
 </p>
 
