@@ -109,7 +109,7 @@ I'm interested in collaborating on:
 
 🚀 <b>Live Portfolio</b>
 
-👉 https://incredible-banoffee-7728a3.netlify.app/
+👉 https://quebenixtechnology.netlify.app/
 
 </p>
 
@@ -336,7 +336,7 @@ I'm always open to connecting with **recruiters, data professionals, developers,
 
 🐙 **GitHub:** https://github.com/sheheryarhilal1
 
-🌐 **Portfolio:** https://incredible-banoffee-7728a3.netlify.app/
+🌐 **Portfolio:** https://quebenixtechnology.netlify.app/
 
 ---
 
